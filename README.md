@@ -53,7 +53,7 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
-<div align="center">
+<div align="left">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
