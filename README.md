@@ -53,22 +53,13 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
-<div align="center">
+![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
-    height="160" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
-    height="160" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly)
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly"
-    height="135" />
-</div>
+---
 
 <div align="center">
   <a href="https://github.com/bsayli/licensing">
