@@ -53,11 +53,31 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&v=2)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&theme=default&hide_border=true&v=2)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
+    height="160" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bsayli&theme=default&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&v=2)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
+    height="160" />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly"
+    height="135" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/bsayli/licensing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsayli&repo=licensing&hide_border=true" />
+  </a>
+  <a href="https://github.com/bsayli/spring-boot-openapi-generics-clients">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsayli&repo=spring-boot-openapi-generics-clients&hide_border=true" />
+  </a>
+</div>
 
 > 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
