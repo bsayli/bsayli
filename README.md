@@ -46,20 +46,20 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 🤝 Collaboration
 
-💼 Open to **Senior Software Architect / Backend Lead** opportunities (remote or hybrid).
+💼 Open to **Senior Software Architect / Backend Lead** opportunities (remote).
 📬 Reach out via [LinkedIn](https://www.linkedin.com/in/barissayli/) or [email](mailto:baris.sayli@gmail.com).
 
 ---
 
-## 📈 My Stats
+## 📈 My Stats (Past Year)
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli\&show_icons=true\&theme=default\&hide_border=true)
+![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli\&layout=compact\&theme=default\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsayli\&theme=default\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bsayli&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 
-> 🚀 Actively contributing to open-source projects around Spring Boot, OpenAPI, and Licensing.
+> 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
 ---
 
