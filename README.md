@@ -53,23 +53,14 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200" height="160"/>
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
-    height="160" />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
-    height="160" />
-
-  <br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly"
-    height="135" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly" height="135"/>
+</p>
 
 > 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
