@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barış Saylı
 
-**Senior Software Architect · Java 21, Spring Boot 3.x, OpenAPI, Keycloak · Microservices**
+**Software Architect · Java 21, Spring Boot 3.x, OpenAPI, Keycloak · Microservices**
 
 Designing production-grade systems with **hexagonal architectures, type-safe API contracts, and secure service-to-service communication**. Passionate about evolving developer experience with code generation, reusable SDKs, and clean architectural boundaries.
 
@@ -46,18 +46,30 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 🤝 Collaboration
 
-💼 Open to **Senior Software Architect / Backend Lead** opportunities (remote).  
+💼 Open to **Software Architect / Backend Lead** opportunities (remote).  
 📬 Reach out via [LinkedIn](https://www.linkedin.com/in/barissayli/) or **baris.sayli@gmail.com**
 
 ---
 
 ## 📈 My Stats
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli\&show_icons=true\&hide_border=true\&hide_rank=true\&hide=contribs\&count_private=true\&cache_seconds=7200)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli\&layout=compact\&hide_border=true\&langs_count=6\&cache_seconds=7200)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
+    height="160" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bsayli\&hide_border=true\&mode=weekly)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
+    height="160" />
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly"
+    height="135" />
+
+</div>
 
 > 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
