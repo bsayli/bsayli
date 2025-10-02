@@ -47,7 +47,7 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 ## 🤝 Collaboration
 
 💼 Open to opportunities as a **Software Architect / Backend Lead** (remote)  
-📬 Contact: [LinkedIn](https://www.linkedin.com/in/barissayli/) · baris.sayli@gmail.com
+📬 Contact: [LinkedIn](https://www.linkedin.com/in/bsayli/) · baris.sayli@gmail.com
 
 ---
 
