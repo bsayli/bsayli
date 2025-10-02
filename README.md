@@ -53,9 +53,11 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&theme=default&hide_border=true)
+![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&theme=default&hide_border=true&v=2)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bsayli&theme=default&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&v=2)
 
 > 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
