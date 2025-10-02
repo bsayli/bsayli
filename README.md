@@ -24,7 +24,7 @@ Designing production-grade systems with **hexagonal architectures, type-safe API
 
 Type-safe generic API clients with OpenAPI Generator + custom Mustache templates, adoption-ready for real-world projects.
 
-`Java 21` · `Spring Boot 3.4` · `OpenAPI Gen 7.x`
+`Java 21` · `Spring Boot 3.4` · `OpenAPI **Generator** 7.x`
 
 ---
 
@@ -54,15 +54,27 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 ## 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
+    alt="GitHub stats for bsayli"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
+    alt="Top languages used by bsayli"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly" height="135"/>
+  <img
+    src="https://streak-stats.demolab.com?user=bsayli&hide_border=true&mode=weekly"
+    alt="GitHub contribution streak for bsayli"
+    height="135"
+  />
 </p>
 
-> 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
+> 🚀 Focused on **Spring Boot, OpenAPI (Generator 7.x), and Licensing frameworks** — with highly active contributions over the past year.
 
 ---
 
