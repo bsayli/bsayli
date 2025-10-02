@@ -61,15 +61,6 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ---
 
-<div align="center">
-  <a href="https://github.com/bsayli/licensing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsayli&repo=licensing&hide_border=true" />
-  </a>
-  <a href="https://github.com/bsayli/spring-boot-openapi-generics-clients">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsayli&repo=spring-boot-openapi-generics-clients&hide_border=true" />
-  </a>
-</div>
-
 > 🚀 Focused on **Spring Boot, OpenAPI, and Licensing frameworks** — with highly active contributions over the past year.
 
 ---
