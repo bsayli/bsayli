@@ -24,7 +24,7 @@ Designing production-grade systems with **hexagonal architectures, type-safe API
 
 Type-safe generic API clients with OpenAPI Generator + custom Mustache templates, adoption-ready for real-world projects.
 
-`Java 21` · `Spring Boot 3.4` · `OpenAPI **Generator** 7.x`
+`Java 21` · `Spring Boot 3.4` · `OpenAPI Generator 7.x`
 
 ---
 
