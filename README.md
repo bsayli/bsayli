@@ -47,7 +47,7 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 ## 🤝 Collaboration
 
 💼 Open to remote opportunities as a **Software Architect / Backend Lead**  
-🔑 Expertise in **Java 21, Spring Boot 3.x, Microservices, OpenAPI, Keycloak**  
+🔑 Expertise in **Java 21, Spring Boot 3.x, Microservices, OpenAPI, Keycloak, Security (OAuth2, JWT), Cloud & CI/CD**  
 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bsayli/) or **baris.sayli@gmail.com**
 
 ---
