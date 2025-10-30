@@ -54,22 +54,22 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 ## 📈 My Stats
 
+📊 *Live insights from my GitHub activity and open-source projects.*
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
-    alt="GitHub stats for bsayli"
     height="160"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
-    alt="Top languages used by bsayli"
     height="160"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bsayli&theme=default&hide_border=true&cache_seconds=3600"
+    src="https://streak-stats.demolab.com?user=bsayli&theme=default&hide_border=true&date_format=%5BY%20%5DM%20j&cache_seconds=3600"
     alt="GitHub contribution streak for bsayli"
     height="135"
     loading="lazy"
