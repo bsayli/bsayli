@@ -69,10 +69,9 @@ A hexagonal (ports & adapters) Spring Boot project initializer. Generates produc
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bsayli&theme=default&hide_border=true&date_format=%5BY%20%5DM%20j&cache_seconds=3600"
-    alt="GitHub contribution streak for bsayli"
+    src="https://streak-stats.demolab.com/?user=bsayli&hide_border=true&mode=weekly&cache_seconds=3600&v=1"
+    alt="GitHub Streak"
     height="135"
-    loading="lazy"
   />
 </p>
 
