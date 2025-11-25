@@ -36,11 +36,16 @@ End-to-end licensing framework with Spring Boot 3 — secure key generation, det
 
 ---
 
-### [codegen-springboot-initializr](https://github.com/bsayli/codegen-springboot-initializr)
+### [codegen-blueprint](https://github.com/bsayli/codegen-blueprint)
 
-A hexagonal (ports & adapters) Spring Boot project initializer. Generates production-ready scaffolding with Maven, `.gitignore`, `application.yml`, starter & test classes, and ready-to-use zip export.
+A **framework-agnostic hexagonal blueprint engine** that generates production-ready project skeletons using profile-based pipelines and FreeMarker templates.
 
-`Java 21` · `Spring Boot 3.5` · `FreeMarker`
+Supports:
+* Spring Boot + Maven + Java (first profile)
+* Clean domain/application/adapter separation
+* Extensible architecture for future profiles (Kotlin, Gradle, multi-module)
+
+`Java 21` · `Spring Boot 3.5` · `Hexagonal Architecture` · `FreeMarker` · `CI/CD` · `JaCoCo` · `CodeQL`
 
 ---
 
