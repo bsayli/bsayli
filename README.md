@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barış Saylı
 
-**Software Architect · Java 21, Spring Boot 3.x, OpenAPI, Keycloak · Microservices**
+**Software Architect · Microservices · Java 21 · Spring Boot 3.x · OpenAPI · Keycloak**
 
 Designing production-grade systems with **hexagonal architectures, type-safe API contracts, and secure service-to-service communication**. Passionate about evolving developer experience with code generation, reusable SDKs, and clean architectural boundaries.
 
@@ -54,28 +54,6 @@ Supports:
 💼 Open to remote opportunities as a **Software Architect / Backend Lead**  
 🔑 Expertise in **Java 21, Spring Boot 3.x, Microservices, OpenAPI, Keycloak, Security (OAuth2, JWT), Cloud & CI/CD**  
 📬 Reach me via [**LinkedIn**](https://www.linkedin.com/in/bsayli/) or **baris.sayli@gmail.com**
-
----
-
-## 📈 My Stats
-
-📊 *Live insights from my GitHub activity and open-source projects.*
-
-📈 Consistent contributor across multiple Spring Boot and OpenAPI-based projects.
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bsayli&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&count_private=true&cache_seconds=7200"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsayli&layout=compact&hide_border=true&langs_count=6&cache_seconds=7200"
-    height="160"
-  />
-</p>
-
-
-> 🚀 Focused on **Spring Boot, OpenAPI (Generator 7.x), and Licensing frameworks** — with highly active contributions over the past year.
 
 ---
 
