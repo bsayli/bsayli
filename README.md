@@ -36,7 +36,7 @@ End-to-end licensing framework with Spring Boot 3 — secure key generation, det
 
 ---
 
-### [codegen-blueprint](https://github.com/bsayli/codegen-blueprint)
+### [codegen-blueprint](https://github.com/blueprint-platform/codegen-blueprint)
 
 A **framework-agnostic hexagonal blueprint engine** that generates production-ready project skeletons using profile-based pipelines and FreeMarker templates.
 
