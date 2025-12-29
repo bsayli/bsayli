@@ -38,14 +38,15 @@ End-to-end licensing framework with Spring Boot 3 — secure key generation, det
 
 ### [codegen-blueprint](https://github.com/blueprint-platform/codegen-blueprint)
 
-A **framework-agnostic hexagonal blueprint engine** that generates production-ready project skeletons using profile-based pipelines and FreeMarker templates.
+An **architecture-first project generator** that creates Spring Boot projects with **executable architecture guardrails**, making structural boundaries explicit and continuously verifiable as the codebase evolves.
 
-Supports:
-* Spring Boot + Maven + Java (first profile)
-* Clean domain/application/adapter separation
-* Extensible architecture for future profiles (Kotlin, Gradle, multi-module)
+Focus areas:
+* Architecture-aware project generation (standard or hexagonal layouts)
+* Executable guardrails via generated ArchUnit tests (opt-in)
+* Deterministic, CI-verified project output
+* Profile-driven evolution without framework lock-in
 
-`Java 21` · `Spring Boot 3.5` · `Hexagonal Architecture` · `FreeMarker` · `CI/CD` · `JaCoCo` · `CodeQL`
+`Java 21` · `Spring Boot 3.5` · `Executable Architecture` · `Architecture Guardrails` · `Hexagonal / Layered` · `CI/CD`
 
 ---
 
