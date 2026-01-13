@@ -22,7 +22,7 @@ Designing production-grade systems with **hexagonal architectures, type-safe API
 
 ### [spring-boot-openapi-generics-clients](https://github.com/bsayli/spring-boot-openapi-generics-clients)
 
-Type-safe generic API clients with OpenAPI Generator + custom Mustache templates, adoption-ready for real-world projects.
+End-to-end generics-aware OpenAPI clients with a single canonical {data, meta} contract and RFC 9457 Problem Details — built on Spring Boot 3.5 and Java 21.
 
 `Java 21` · `Spring Boot 3.5` · `OpenAPI Generator 7.x`
 
