@@ -45,4 +45,4 @@ For **SaaS / enterprise teams** needing a complete **license issue/validate life
 ## 🤝 Collaboration
 
 Open to remote roles: **Software Architect / Backend Architect / Lead Java Developer / Backend Team Lead (hands-on)**  
-📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bsayli/) or **baris.sayli@gmail.com**
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bsayli/)
