@@ -1,63 +1,48 @@
 # 👋 Hi, I'm Barış Saylı
 
-**Software Architect · Microservices · Java 21 · Spring Boot 3.x · OpenAPI · Keycloak**
+**Hands-on Software Architect / Backend Lead (Java 21, Spring Boot 3.x)**  
+I help teams stabilize and evolve production backends: **service boundaries, API contracts, security**, and **maintainable refactoring** — without breaking production.
 
-Designing production-grade systems with **hexagonal architectures, type-safe API contracts, and secure service-to-service communication**. Passionate about evolving developer experience with code generation, reusable SDKs, and clean architectural boundaries.
+**Proof-driven work:** I publish runnable reference implementations that show problems, trade-offs, and deterministic outcomes.
+
+---
+
+## ✅ What I Deliver (in real teams)
+
+- **Safe modernization & refactoring** of live systems (boundaries, modularization, DDD-friendly structure)
+- **Contract-driven APIs** (server + client alignment, OpenAPI ownership, drift prevention)
+- **Security & identity foundations** (Keycloak, OAuth2/JWT, service-to-service patterns)
+- **Observability baselines** (OpenTelemetry, Sentry; tracing/logging foundations)
 
 ---
 
 ## 🔭 Focus Areas
 
-* **Microservices & DDD**
-* **OpenAPI & Client Code Generation**
-* **Type-Safe API Design (Envelope & Generics Patterns)**
-* **Identity & Access (Keycloak, OAuth2, JWT)**
-* **Licensing Frameworks (issue/validate, SDK/CLI)**
-* **Cloud & DevOps (Docker/K8s, CI/CD)**
-* **Observability (OTel, Grafana, Sentry)**
+- Architecture & delivery in production
+- API contracts & client generation (OpenAPI, generics/envelopes)
+- Security (Keycloak, OAuth2, JWT)
+- Observability (OTel, Sentry)
+- Platform-style shared components (reusable libraries)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (proof over claims)
 
 ### [spring-boot-openapi-generics-clients](https://github.com/bsayli/spring-boot-openapi-generics-clients)
-
-End-to-end generics-aware OpenAPI clients with a single canonical {data, meta} contract and RFC 9457 Problem Details — built on Spring Boot 3.5 and Java 21.
-
-`Java 21` · `Spring Boot 3.5` · `OpenAPI Generator 7.x`
-
----
-
-### [licensing](https://github.com/bsayli/licensing)
-
-End-to-end licensing framework with Spring Boot 3 — secure key generation, detached signatures, token validation, SDK & CLI. Delivers full license lifecycle with **Keycloak integration** and **Redis caching**.
-
-`Java 21` · `Spring Boot 3.5` · `Keycloak 26.x` · `Redis 8.x` · `Maven` · `Docker` · `Caffeine` · `JWT`
-
----
+For **API platform / backend teams** generating clients and fighting **generic envelope drift + duplicated DTOs**.  
+**Proof:** end-to-end runnable setup + before/after screenshots + shared canonical `api-contract` (`ServiceResponse<T>`, `ServiceResponse<Page<T>>`).
 
 ### [codegen-blueprint](https://github.com/blueprint-platform/codegen-blueprint)
+For **architects / platform engineers** who want architecture that is **verified by the build** (not tribal knowledge).  
+**Proof:** generated ArchUnit guardrails fail deterministically during `mvn verify` with screenshots (drift becomes observable and fail-fast).
 
-An **architecture-first project generator** that creates Spring Boot projects with **executable architecture guardrails**, making structural boundaries explicit and continuously verifiable as the codebase evolves.
-
-Focus areas:
-* Architecture-aware project generation (standard or hexagonal layouts)
-* Executable guardrails via generated ArchUnit tests (opt-in)
-* Deterministic, CI-verified project output
-* Profile-driven evolution without framework lock-in
-
-`Java 21` · `Spring Boot 3.5` · `Executable Architecture` · `Architecture Guardrails` · `Hexagonal / Layered` · `CI/CD`
+### [licensing](https://github.com/bsayli/licensing)
+For **SaaS / enterprise teams** needing a complete **license issue/validate lifecycle** with strong security primitives.  
+**Proof:** Keycloak + Redis + EdDSA-signed JWT flow, plus SDK & CLI and Docker-based setup.
 
 ---
 
 ## 🤝 Collaboration
 
-💼 Open to remote opportunities as a **Software Architect / Backend Lead**  
-🔑 Expertise in **Java 21, Spring Boot 3.x, Microservices, OpenAPI, Keycloak, Security (OAuth2, JWT), Cloud & CI/CD**  
-📬 Reach me via [**LinkedIn**](https://www.linkedin.com/in/bsayli/) or **baris.sayli@gmail.com**
-
----
-
-## 🛡 License
-
-All public repositories are under the **MIT License** unless otherwise noted.
+Open to remote roles: **Software Architect / Backend Architect / Lead Java Developer / Backend Team Lead (hands-on)**  
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bsayli/) or **baris.sayli@gmail.com**
