@@ -1,48 +1,74 @@
-# 👋 Hi, I'm Barış Saylı
+# 👋 Hi, I’m Barış Saylı
 
-**Hands-on Software Architect / Backend Lead (Java 21, Spring Boot 3.x)**  
-I help teams stabilize and evolve production backends: **service boundaries, API contracts, security**, and **maintainable refactoring** — without breaking production.
+**Hands-on Software Architect**  
+**Java 21 · Spring Boot 3.x · Backend & Platform Engineering**
 
-**Proof-driven work:** I publish runnable reference implementations that show problems, trade-offs, and deterministic outcomes.
+I design and evolve **production backend systems** where architecture, API contracts, and operational reliability must remain stable **well beyond day one**.
 
----
+My work spans both **greenfield foundations** (designing microservice ecosystems, defining bounded contexts, building shared platform libraries) and **brownfield evolution** (monolith-to-microservices migration, refactoring under load, and resolving production bottlenecks without disrupting delivery).
 
-## ✅ What I Deliver (in real teams)
-
-- **Safe modernization & refactoring** of live systems (boundaries, modularization, DDD-friendly structure)
-- **Contract-driven APIs** (server + client alignment, OpenAPI ownership, drift prevention)
-- **Security & identity foundations** (Keycloak, OAuth2/JWT, service-to-service patterns)
-- **Observability baselines** (OpenTelemetry, Sentry; tracing/logging foundations)
+The common thread is simple:  
+**systems that can change safely while staying understandable months and years later.**
 
 ---
 
-## 🔭 Focus Areas
+## 📂 Selected Repositories
 
-- Architecture & delivery in production
-- API contracts & client generation (OpenAPI, generics/envelopes)
-- Security (Keycloak, OAuth2, JWT)
-- Observability (OTel, Sentry)
-- Platform-style shared components (reusable libraries)
+### 🧠 Spring Boot OpenAPI Generics Clients
 
----
+**Contract-driven, generics-aware OpenAPI client generation**
 
-## 📂 Featured Projects (proof over claims)
+A reference implementation showing how **server and client can share a single canonical response contract** (`ServiceResponse<T>`, `ServiceResponse<Page<T>>`) without duplicated envelopes or erased generics.
 
-### [spring-boot-openapi-generics-clients](https://github.com/bsayli/spring-boot-openapi-generics-clients)
-For **API platform / backend teams** generating clients and fighting **generic envelope drift + duplicated DTOs**.  
-**Proof:** end-to-end runnable setup + before/after screenshots + shared canonical `api-contract` (`ServiceResponse<T>`, `ServiceResponse<Page<T>>`).
+This repository focuses on:
+- End-to-end type safety across API boundaries
+- Deterministic OpenAPI 3.1 schemas
+- RFC 9457-compliant error handling
+- Minimal, generator-safe Mustache customizations
 
-### [codegen-blueprint](https://github.com/blueprint-platform/codegen-blueprint)
-For **architects / platform engineers** who want architecture that is **verified by the build** (not tribal knowledge).  
-**Proof:** generated ArchUnit guardrails fail deterministically during `mvn verify` with screenshots (drift becomes observable and fail-fast).
-
-### [licensing](https://github.com/bsayli/licensing)
-For **SaaS / enterprise teams** needing a complete **license issue/validate lifecycle** with strong security primitives.  
-**Proof:** Keycloak + Redis + EdDSA-signed JWT flow, plus SDK & CLI and Docker-based setup.
+👉 https://github.com/bsayli/spring-boot-openapi-generics-clients
 
 ---
 
-## 🤝 Collaboration
+### ⚙️ Codegen Blueprint
 
-Open to remote roles: **Software Architect / Backend Architect / Lead Java Developer / Backend Team Lead (hands-on)**  
-📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bsayli/)
+**Architecture-first project generation with build-time guardrails**
+
+A CLI-driven generator that turns **architectural intent into executable build-time rules** using generated ArchUnit tests evaluated during `mvn verify`.
+
+The emphasis is not scaffolding speed, but:
+- Explicit, verifiable architectural boundaries
+- Standard or Hexagonal layouts by construction
+- Drift detection while context is still fresh
+- Deterministic, CI-visible feedback
+
+👉 https://github.com/blueprint-platform/codegen-blueprint
+
+---
+
+### 🔐 Licensing Project
+
+**End-to-end licensing framework for Spring Boot applications**
+
+A complete license issue / validate lifecycle built on **Spring Boot, Keycloak, Redis, and EdDSA-signed JWTs**, including SDK and CLI consumption patterns with a reproducible Docker setup.
+
+The project demonstrates:
+- Secure license issuance and validation
+- Detached signatures and token-based verification
+- Clear separation between service, SDK, and CLI concerns
+
+👉 https://github.com/bsayli/licensing
+
+---
+
+## 📌 Focus Signals
+
+- **Type-safe API contracts** shared across server and client
+- **Architecture that stays visible** as systems evolve
+- **Incremental change under production constraints**
+- **Enterprise concerns**: security, identity, and platform consistency
+
+These repositories are built as **reference implementations** — not tutorials or demos.
+Design decisions, trade-offs, and constraints are documented where they matter most: **in code and in builds**.
+
+For professional background and contact details, see the links in my GitHub profile sidebar.
