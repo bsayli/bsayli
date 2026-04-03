@@ -1,74 +1,131 @@
 # 👋 Hi, I’m Barış Saylı
 
-**Hands-on Software Architect**  
-**Java 21 · Spring Boot 3.x · Backend & Platform Engineering**
+**Software Architect · Platform & Backend Engineering**
+**Java 21 · Spring Boot · Distributed Systems · API Contracts**
 
-I design and evolve **production backend systems** where architecture, API contracts, and operational reliability must remain stable **well beyond day one**.
+I design and evolve backend systems where **architecture is explicit, contracts are stable, and change is safe** — not just at day one, but under real production pressure months and years later.
 
-My work spans both **greenfield foundations** (designing microservice ecosystems, defining bounded contexts, building shared platform libraries) and **brownfield evolution** (monolith-to-microservices migration, refactoring under load, and resolving production bottlenecks without disrupting delivery).
+My work focuses on making systems:
 
-The common thread is simple:  
-**systems that can change safely while staying understandable months and years later.**
+* **predictable** (deterministic behavior across environments)
+* **understandable** (clear boundaries and contracts)
+* **evolvable** (safe change without hidden coupling)
+
+I operate across both:
+
+* **Greenfield systems** — designing service boundaries, contracts, and platform foundations
+* **Brownfield systems** — refactoring live systems, reducing risk, and restoring architectural clarity
 
 ---
 
-## 📂 Selected Repositories
+## 📂 Selected Work
 
-### 🧠 Spring Boot OpenAPI Generics Clients
+### 🧠 OpenAPI Generics
 
-**Contract-driven, generics-aware OpenAPI client generation**
+**Contract-first API system with generics-aware client generation**
 
-A reference implementation showing how **server and client can share a single canonical response contract** (`ServiceResponse<T>`, `ServiceResponse<Page<T>>`) without duplicated envelopes or erased generics.
+A platform-oriented implementation showing how **API contracts remain the single source of truth**, while OpenAPI acts as a **deterministic projection layer** — not a model generator.
 
-This repository focuses on:
-- End-to-end type safety across API boundaries
-- Deterministic OpenAPI 3.1 schemas
-- RFC 9457-compliant error handling
-- Minimal, generator-safe Mustache customizations
+Core ideas:
 
-👉 https://github.com/bsayli/spring-boot-openapi-generics-clients
+* Preserve `ServiceResponse<T>` semantics across server and client
+* Eliminate DTO duplication and schema drift
+* Treat OpenAPI as a projection, not authority
+* Ensure safe regeneration of clients
+
+👉 [https://github.com/blueprint-platform/openapi-generics](https://github.com/blueprint-platform/openapi-generics)
 
 ---
 
 ### ⚙️ Codegen Blueprint
 
-**Architecture-first project generation with build-time guardrails**
+**Executable architecture with build-time enforcement**
 
-A CLI-driven generator that turns **architectural intent into executable build-time rules** using generated ArchUnit tests evaluated during `mvn verify`.
+A generator that turns architectural intent into **verifiable, build-time rules** using ArchUnit.
 
-The emphasis is not scaffolding speed, but:
-- Explicit, verifiable architectural boundaries
-- Standard or Hexagonal layouts by construction
-- Drift detection while context is still fresh
-- Deterministic, CI-visible feedback
+Instead of relying on conventions or reviews:
 
-👉 https://github.com/blueprint-platform/codegen-blueprint
+* architecture is **generated**
+* violations are **detected at build time**
+* feedback is **deterministic and immediate**
+
+Focus:
+
+* Architecture as a build-enforced contract
+* Hexagonal / layered structures by construction
+* Drift detection during development, not after
+
+👉 [https://github.com/blueprint-platform/codegen-blueprint](https://github.com/blueprint-platform/codegen-blueprint)
 
 ---
 
 ### 🔐 Licensing Project
 
-**End-to-end licensing framework for Spring Boot applications**
+**Security-focused licensing platform (JWT + cryptography)**
 
-A complete license issue / validate lifecycle built on **Spring Boot, Keycloak, Redis, and EdDSA-signed JWTs**, including SDK and CLI consumption patterns with a reproducible Docker setup.
+An end-to-end system for issuing and validating licenses using:
 
-The project demonstrates:
-- Secure license issuance and validation
-- Detached signatures and token-based verification
-- Clear separation between service, SDK, and CLI concerns
+* EdDSA-signed JWTs
+* Detached signature verification
+* Redis-backed validation
+* SDK and CLI separation
 
-👉 https://github.com/bsayli/licensing
+Focus:
+
+* Clear trust boundaries
+* Deterministic validation
+* Production-grade security design
+
+👉 [https://github.com/bsayli/licensing](https://github.com/bsayli/licensing)
 
 ---
 
-## 📌 Focus Signals
+## 🧭 Architectural Focus
 
-- **Type-safe API contracts** shared across server and client
-- **Architecture that stays visible** as systems evolve
-- **Incremental change under production constraints**
-- **Enterprise concerns**: security, identity, and platform consistency
+My work consistently centers on a few non-negotiable principles:
 
-These repositories are built as **reference implementations** — not tutorials or demos.
-Design decisions, trade-offs, and constraints are documented where they matter most: **in code and in builds**.
+* **Contract as authority (SSOT)**
+  Runtime models define truth — tools must not redefine them
 
-For professional background and contact details, see the links in my GitHub profile sidebar.
+* **Determinism over convenience**
+  Same input → same output, across build and runtime
+
+* **Explicit boundaries**
+  Architecture must be visible in structure, not implied in conventions
+
+* **Build-time guarantees**
+  Violations should fail early — not leak into production
+
+* **Separation of concerns**
+  Contract / projection / generation / consumption are distinct layers
+
+---
+
+## 📌 What You’ll Find Here
+
+These repositories are not tutorials.
+
+They are **reference implementations** that demonstrate:
+
+* real architectural trade-offs
+* constrained design decisions
+* production-oriented thinking
+
+The goal is not to show *how to start fast*, but how to:
+
+> **build systems that remain correct as they evolve**
+
+---
+
+## 🔗 Connect
+
+For background, writing, and contact:
+
+* GitHub → [https://github.com/bsayli](https://github.com/bsayli)
+* LinkedIn → [https://www.linkedin.com/in/bsayli](https://www.linkedin.com/in/bsayli)
+* Medium → [https://medium.com/@baris.sayli](https://medium.com/@baris.sayli)
+
+---
+
+> Architecture should not rely on discipline.
+> It should be **observable, enforceable, and evolvable**.
