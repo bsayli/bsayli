@@ -120,8 +120,6 @@ The goal is not to show *how to start fast*, but how to:
 ## 🔗 Connect
 
 For background, writing, and contact:
-
-* GitHub → [https://github.com/bsayli](https://github.com/bsayli)
 * LinkedIn → [https://www.linkedin.com/in/bsayli](https://www.linkedin.com/in/bsayli)
 * Medium → [https://medium.com/@baris.sayli](https://medium.com/@baris.sayli)
 
