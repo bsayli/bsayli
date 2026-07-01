@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Barış Saylı
 
 **Software Architect · Platform & Backend Engineering**
-**Java 21 · Spring Boot · Distributed Systems · API Contracts**
+**Java · Spring Boot · Distributed Systems · API Contracts**
 
 I design and evolve backend systems where **architecture is explicit, contracts are stable, and change is safe** — not just at day one, but under real production pressure months and years later.
 
